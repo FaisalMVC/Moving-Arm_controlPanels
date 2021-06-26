@@ -1,0 +1,40 @@
+.head{
+  padding-top: 15%;
+  padding-left: 45%;
+  padding-bottom: 15px;
+}
+.middle{
+  padding-left: 37%;
+}
+.buttom{
+    padding-left: 45%;
+    padding-top: 15px;
+}
+
+.stop{
+  border-color: black;
+  background-color: #ff0303;
+  color: white;
+}
+.right{
+
+}
+.backward{
+  padding-right: 0px;
+}
+
+.b2{
+    padding-right: 25px;
+}
+.b3{
+   padding-right: 25px;
+}
+button{
+  background-color: white;
+  border-radius: 15px 15px 15px;
+  height: 35px;
+  width: 125px;
+}
+body{
+  background-color: #c6e2ff;
+}
