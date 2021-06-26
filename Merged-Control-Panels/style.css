@@ -1,0 +1,67 @@
+div{
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+.topPage{
+  height: 100%;
+  padding-right:  100px;
+  padding-bottom: 100px;
+  padding-top: 100px;
+  justify-content: center;
+}
+.buttonPage{
+  height: 100%;
+  justify-content: center;
+}
+.head{
+  padding-left: 45%;
+  padding-bottom: 15px;
+
+}
+.middle{
+  padding-left: 44%;
+
+}
+.buttom{
+    padding-left: 45%;
+    padding-top: 15px;
+
+}
+.forward{
+  width: 75px;
+}
+.left{
+  width: 75px;
+}
+.stop{
+  width: 75px;
+  border-color: red;
+  background-color: red;
+  color: white;
+}
+.right{
+  width: 75px;
+}
+.backward{
+  width: 75px;
+  padding-right: 0px;
+}
+
+.b2{
+    padding-right: 25px;
+}
+.b3{
+  padding-right: 25px;
+}
+button{
+  background-color: white;
+  border-radius: 15px 15px 15px;
+}
+body{
+  background-color: #c6e2ff;
+}
+
+.label{
+  padding-right: 10px;
+}
